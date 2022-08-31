@@ -1,6 +1,6 @@
-- 👋 Pleased to meet you! I’m Adam. (@adam-ibn-mansur)
-- 👀 I’m interested in ... mechanical keyboards, video games, computer software & hardware, and music!
-- 🌱 I’m currently learning SQL, as well as relearning all of the computer science languages I've used so far (Java, Python, Linux Shell, R, C/C++, C#, MATLAB, HTML/CSS/JavaScript)
+- 👋 Pleased to meet you! I’m Adam.
+- 👀 I’m interested in ... mechanical keyboards, video games, computer software & hardware, and music.
+- 🌱 I’m currently learning Spring Boot and React.JS. I currently proficiency in the following languages: AHK, Java, Python, Linux Shell, R, C/C++, C#, MATLAB, HTML, CSS, JS.
 - 💞️ I’m looking to collaborate on nothing at the moment - I want to prove I can be competent by myself before I can join another team.
 - 📫 How to reach me? At my email! ahabil@outlook.com
 
